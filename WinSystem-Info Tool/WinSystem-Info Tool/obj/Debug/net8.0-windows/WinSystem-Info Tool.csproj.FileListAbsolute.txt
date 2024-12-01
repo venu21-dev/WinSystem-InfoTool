@@ -1,0 +1,21 @@
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\bin\Debug\net8.0-windows\WinSystem-Info Tool.exe
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\bin\Debug\net8.0-windows\WinSystem-Info Tool.deps.json
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\bin\Debug\net8.0-windows\WinSystem-Info Tool.runtimeconfig.json
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\bin\Debug\net8.0-windows\WinSystem-Info Tool.dll
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\bin\Debug\net8.0-windows\WinSystem-Info Tool.pdb
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\obj\Debug\net8.0-windows\WinSystem_Info_Tool.Form1.resources
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\obj\Debug\net8.0-windows\WinSystem-Info Tool.csproj.GenerateResource.cache
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\obj\Debug\net8.0-windows\WinSystem-Info Tool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\obj\Debug\net8.0-windows\WinSystem-Info Tool.AssemblyInfoInputs.cache
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\obj\Debug\net8.0-windows\WinSystem-Info Tool.AssemblyInfo.cs
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\obj\Debug\net8.0-windows\WinSystem-Info Tool.csproj.CoreCompileInputs.cache
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\obj\Debug\net8.0-windows\WinSystem-Info Tool.dll
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\obj\Debug\net8.0-windows\refint\WinSystem-Info Tool.dll
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\obj\Debug\net8.0-windows\WinSystem-Info Tool.pdb
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\obj\Debug\net8.0-windows\WinSystem-Info Tool.genruntimeconfig.cache
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\obj\Debug\net8.0-windows\ref\WinSystem-Info Tool.dll
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\obj\Debug\net8.0-windows\WinSystem-Info Tool.csproj.AssemblyReference.cache
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\bin\Debug\net8.0-windows\System.CodeDom.dll
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\bin\Debug\net8.0-windows\System.Management.dll
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+D:\Personal_Projects\vsuqlz\Projekte\WinForms\WinSystem-Info Tool\WinSystem-Info Tool\obj\Debug\net8.0-windows\WinSyste.9655C6CB.Up2Date

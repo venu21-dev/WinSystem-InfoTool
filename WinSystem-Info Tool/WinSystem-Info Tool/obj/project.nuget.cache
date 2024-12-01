@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kVGnO3jgGdU=",
+  "success": true,
+  "projectFilePath": "D:\\Personal_Projects\\vsuqlz\\Projekte\\WinForms\\WinSystem-Info Tool\\WinSystem-Info Tool\\WinSystem-Info Tool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\41754\\.nuget\\packages\\system.codedom\\9.0.0\\system.codedom.9.0.0.nupkg.sha512",
+    "C:\\Users\\41754\\.nuget\\packages\\system.management\\9.0.0\\system.management.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
